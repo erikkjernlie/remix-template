@@ -1,0 +1,6 @@
+node_modules
+build
+api
+remix.config.js
+server.js
+tailwind.config.js
